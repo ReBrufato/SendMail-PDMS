@@ -1,5 +1,4 @@
 # SendMail
-# Exercício desenvolvido em disciplina
 
 Exercício realizado em aula, na disciplica de Programação para Dispositivos móveis, com objetivo de 
 introduzir e exercitar a utilização de Intent
